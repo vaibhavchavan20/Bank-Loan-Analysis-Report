@@ -3,4 +3,4 @@ Bank loan analysis report
 
 Check the Dashboard here
 
-https://app.powerbi.com/links/pe6ljxpJ1K?ctid=f863b45b-5bc3-4d99-94ac-4193884150a7&pbi_source=linkShare&bookmarkGuid=8a649468-dcfa-493b-8067-84976dd85538
+https://app.powerbi.com/view?r=eyJrIjoiM2Y1ZGZhNTAtNjRjNC00OTcyLThlODYtYTBlYzNhMWE2ZTNiIiwidCI6ImY4NjNiNDViLTViYzMtNGQ5OS05NGFjLTQxOTM4ODQxNTBhNyIsImMiOjEwfQ%3D%3D
